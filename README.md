@@ -63,6 +63,7 @@ To achieve maximum profit of ₹2400, the company should produce:
 
 60 units of Product B
 
+
 This solution ensures efficient use of machine time without exceeding the limits.
 
 🙋 Author
