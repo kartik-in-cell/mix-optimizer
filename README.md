@@ -45,18 +45,20 @@ product-mix-optimizer/ ├── optimization_model.ipynb # Jupyter Notebook wit
 ```bash
 git clone https://github.com/your-username/product-mix-optimizer.git
 cd product-mix-optimizer
-2. Install Requirements
+
+### 2. Install Requirements
 pip install -r requirements.txt
-3. Run the Notebook
+
+### 3. Run the Notebook
 Open optimization_model.ipynb in Jupyter Notebook or VS Code and run the cells.
 
-✅ Output Example
+### ✅ Output Example
 Status: Optimal
 Optimal Units of Product A = 0.00
 Optimal Units of Product B = 60.00
 Maximum Profit = ₹2400.00
 
-📊 Business Insights
+### 📊 Business Insights
 To achieve maximum profit of ₹2400, the company should produce:
 
 0 units of Product A
